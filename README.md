@@ -1,5 +1,5 @@
 # 💫 About Me:
-Site Reliability Engineer with 9 years of hands-on expertise building and maintaining highly available production systems across Fortune 500 companies.<br>Proven track record of reducing Mean Time To Resolution (MTTR) by 35-40% and maintaining 99.9% uptime through automation, observability, and incident management excellence. <br>AWS-certified professional skilled in Kubernetes orchestration, system design, and scaling mission-critical infrastructure. <br>Expert at balancing reliability with innovation through SLOs and error budgets.<br>I also work on AI agents enabling smart monitoring<br>
+Site Reliability Engineer with 9+ years building, automating, and scaling mission-critical production systems for Fortune 500 organisations. Specialises in SRE, AIOps, MLOps, and Agentic AI — architecting AI-driven alert correlation on Splunk & New Relic, deploying LLM-powered runbook automation, and building self-healing infrastructure. Reduced MTTR by 40%, cut alert noise by 55%, and sustained 99.9% uptime on a $2B+/day payment platform. AWS Certified AI Practitioner & Cloud Practitioner. Executive PhD researcher at NIT Rourkela. Seeking senior remote SRE / Platform Engineering / AIOps roles with global-first organisations.<br>
 
 
 ## 🌐 Socials:
