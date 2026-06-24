@@ -1,5 +1,5 @@
 # 💫 About Me:
-Site Reliability Engineer with 9+ years building, automating, and scaling mission-critical production systems for Fortune 500 organisations. Specialises in SRE, AIOps, MLOps, and Agentic AI — architecting AI-driven alert correlation on Splunk & New Relic, deploying LLM-powered runbook automation, and building self-healing infrastructure. Reduced MTTR by 40%, cut alert noise by 55%, and sustained 99.9% uptime on a $2B+/day payment platform. AWS Certified AI Practitioner & Cloud Practitioner. Executive PhD researcher at NIT Rourkela. Seeking senior remote SRE / Platform Engineering / AIOps roles with global-first organisations.<br>
+Site Reliability Engineer with 9+ years building, automating, and scaling mission-critical production systems for Fortune 500 organisations. Specialises in SRE, AIOps, MLOps, and Agentic AI — architecting AI-driven alert correlation on Splunk & New Relic, deploying LLM-powered runbook automation, and building self-healing infrastructure. Reduced MTTR by 40%, cut alert noise by 55%, and sustained 99.9% uptime on a $2B+/day payment platform. AWS Certified AI Practitioner & Cloud Practitioner. Executive PhD researcher at NIT Rourkela. <br>
 
 
 ## 🌐 Socials:
